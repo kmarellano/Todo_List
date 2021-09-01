@@ -15,7 +15,8 @@ export default function Header({text}) {
 
 const styles = StyleSheet.create({
     container:{
-        flex: 0.12,
+        flex: 0.15,
+        marginBottom: 10,
         flexDirection: 'row',
     },
     text:{
