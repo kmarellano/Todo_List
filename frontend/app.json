@@ -1,4 +1,12 @@
 {
-  "name": "frontend",
-  "displayName": "frontend"
+    "name": "frontend",
+    "displayName": "frontend",
+    "expo": {
+        "sdkVesion": "30.0.2",
+        "android": {
+            "package": "com.kurtarellano.todo",
+            "versionCode": 1,
+            "permissions": []
+        }
+    }
 }
